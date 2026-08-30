@@ -7,6 +7,8 @@
  *     struct ListNode *next;
  * };
  */
+
+ // time - O(N), space - O(1)
 struct ListNode* oddEvenList(struct ListNode* head) {
   typedef struct ListNode Node;
 
