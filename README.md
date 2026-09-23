@@ -10,6 +10,8 @@
    - [Remove duplicate from sorted array](lc/sa2z/array/26_remove_dup_from_sorted_arr.c)
    - [Rotate array](lc/sa2z/array/189_rotate_array.c)
    - [Move zeroes](lc/sa2z/array/283_move_zeroes.c)
+   - [Max Consecutive Ones](lc/sa2z/array/485_find_consecutive_ones.c)
+
 2. Linked List
    - [Delete node in linked list](lc/sa2z/linkedlist/237_delete_node_in_linkedlist.c)
    - [Middle of linked list](lc/sa2z/linkedlist/876_middle_of_linkedlist.c)
