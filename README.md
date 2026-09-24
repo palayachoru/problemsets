@@ -12,6 +12,7 @@
    - [Move zeroes](lc/sa2z/array/283_move_zeroes.c)
    - [Max consecutive ones](lc/sa2z/array/485_find_consecutive_ones.c)
    - [Missing number](lc/sa2z/array/268_missing_number.c)
+   - [Merge sorted array](lc/sa2z/array/88_merge_sorted_array.c)
 
 2. Linked List
    - [Delete node in linked list](lc/sa2z/linkedlist/237_delete_node_in_linkedlist.c)
