@@ -14,6 +14,7 @@
    - [Missing number](lc/sa2z/array/268_missing_number.c)
    - [Merge sorted array](lc/sa2z/array/88_merge_sorted_array.c)
    - [Intersection of 2 arrays](lc/sa2z/array/349_intersection_of_two_arrays.c)
+   - [Majority element](lc/sa2z/array/169_majority_element.c)
 
 2. Linked List
    - [Delete node in linked list](lc/sa2z/linkedlist/237_delete_node_in_linkedlist.c)
