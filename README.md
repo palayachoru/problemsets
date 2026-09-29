@@ -17,6 +17,7 @@
    - [Majority element](lc/sa2z/array/169_majority_element.c)
    - [Rearrange array element by sign](lc/sa2z/array/2149_rearrange_array_elements_by_sign.c)
    - [Pascal's triangle](lc/sa2z/array/118_pascals_triangle.c)
+   - [Pascal's triangle II](lc/sa2z/array/119_pascals_triangle_2.c)
 
 2. Linked List
    - [Delete node in linked list](lc/sa2z/linkedlist/237_delete_node_in_linkedlist.c)
